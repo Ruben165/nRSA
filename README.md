@@ -1,1 +1,1 @@
-This is my attempt on making an RSA Implementation, but with a slight different approach. Instead of using only two prime numbers at the beginning, this algorithm can use up to five numbers. 
+This is my attempt on making an RSA Implementation with Python, but with a slight different approach at the start. Instead of using only two prime numbers at the beginning, this algorithm (currently) can use up to five numbers. 
